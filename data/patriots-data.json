@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "fetchedAt": "23 Jun 2026",
+  "fetchedAt": "2026-06-30",
   "team": {
     "name": "Pilsen Patriots",
     "short": "Patriots"
@@ -12,10 +12,10 @@
       "oppShort": "PRE",
       "date": "Mar 28",
       "home": true,
-      "result": "L",
-      "ours": 34,
-      "theirs": 35,
-      "played": true
+      "played": true,
+      "result": "W",
+      "ours": 14,
+      "theirs": 0
     },
     {
       "week": 2,
@@ -23,10 +23,10 @@
       "oppShort": "ZNO",
       "date": "Apr 05",
       "home": false,
+      "played": true,
       "result": "L",
-      "ours": 14,
-      "theirs": 51,
-      "played": true
+      "ours": 0,
+      "theirs": 15
     },
     {
       "week": 3,
@@ -34,114 +34,87 @@
       "oppShort": "BRN",
       "date": "Apr 11",
       "home": true,
+      "played": true,
       "result": "W",
-      "ours": 25,
-      "theirs": 24,
-      "played": true
+      "ours": 14,
+      "theirs": 0
     },
     {
       "week": 4,
-      "opp": "BYE WEEK",
-      "oppShort": "—",
-      "date": "Apr 18",
-      "home": true,
-      "bye": true,
-      "played": true
-    },
-    {
-      "week": 5,
       "opp": "Vysočina Gladiators",
       "oppShort": "VYS",
       "date": "Apr 26",
       "home": false,
+      "played": true,
       "result": "L",
-      "ours": 6,
-      "theirs": 49,
-      "played": true
+      "ours": 0,
+      "theirs": 16
     },
     {
-      "week": 6,
+      "week": 5,
       "opp": "Přerov Mammoths",
       "oppShort": "PRE",
       "date": "May 03",
       "home": false,
+      "played": true,
       "result": "L",
-      "ours": 3,
-      "theirs": 21,
-      "played": true
+      "ours": 0,
+      "theirs": 15
     },
     {
-      "week": 7,
+      "week": 6,
       "opp": "Ostrava Steelers",
       "oppShort": "OST",
       "date": "May 09",
       "home": true,
+      "played": true,
       "result": "W",
-      "ours": 29,
-      "theirs": 21,
-      "played": true
+      "ours": 14,
+      "theirs": 0
     },
     {
-      "week": 8,
+      "week": 7,
       "opp": "Nitra Knights",
       "oppShort": "NIT",
       "date": "May 17",
       "home": false,
+      "played": true,
       "result": "L",
-      "ours": 10,
-      "theirs": 31,
-      "played": true
+      "ours": 0,
+      "theirs": 15
     },
     {
-      "week": 9,
-      "opp": "BYE WEEK",
-      "oppShort": "—",
-      "date": "May 23",
-      "home": true,
-      "bye": true,
-      "played": true
-    },
-    {
-      "week": 10,
+      "week": 8,
       "opp": "Znojmo Knights",
       "oppShort": "ZNO",
       "date": "May 30",
       "home": true,
-      "result": "L",
-      "ours": 16,
-      "theirs": 39,
-      "played": true
+      "played": true,
+      "result": "W",
+      "ours": 14,
+      "theirs": 0
     },
     {
-      "week": 11,
-      "opp": "BYE WEEK",
-      "oppShort": "—",
-      "date": "Jun 06",
-      "home": true,
-      "bye": true,
-      "played": true
-    },
-    {
-      "week": 12,
+      "week": 9,
       "opp": "Brno Sígrs",
       "oppShort": "BRN",
       "date": "Jun 13",
       "home": false,
+      "played": true,
       "result": "L",
-      "ours": 17,
-      "theirs": 28,
-      "played": true
+      "ours": 0,
+      "theirs": 15
     },
     {
-      "week": 13,
+      "week": 10,
       "opp": "Vysočina Gladiators",
       "oppShort": "VYS",
       "date": "Jun 21",
       "home": true,
-      "result": "L",
-      "ours": 0,
-      "theirs": 52,
-      "played": true
+      "played": true,
+      "result": "W",
+      "ours": 14,
+      "theirs": 0
     }
   ],
   "standings": [
